@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redevdesign
 - 👀 I’m interested in being the best I can be.
-- 🌱 I’m currently learning html5, css and javascript.
+- 🌱 I’m currently learning html5, css, javascript, tailwindcss, nuxt/vue.
 - 💞️ I’m looking to collaborate on learning more without being a burden.
 - 📫 How to reach me- reddevdesign@gmail.com
 
