@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @redevdesign
+- 👋 Hi, I’m Matt.
 - 👀 I’m interested in being the best I can be.
 - 🌱 I’m currently learning html5, css, javascript, tailwindcss, nuxt/vue.
 - 💞️ I’m looking to collaborate on learning more.
